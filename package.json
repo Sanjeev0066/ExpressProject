@@ -1,0 +1,17 @@
+{
+  "name": "JavaScriptNODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FatArrowFunction.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
